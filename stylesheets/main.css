@@ -1,6 +1,6 @@
 # CSS
 body {
-	background-image:url(Road.jpg);
+	background-image:url(".../stylesheets/Road.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
