@@ -1,10 +1,10 @@
 # CSS
-body {   
+body {
 background-image:url(http://missionsprings.net/wp-content/uploads/2016/06/Huge-Backgrounds-26.jpg);   
 background-size: cover;   
 background-repeat: no-repeat;
 }
-ul {  
+ul {
 position:relative;  
 float:bottom;  
 list-style-type:none;  
