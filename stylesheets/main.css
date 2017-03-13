@@ -24,7 +24,7 @@ li a {
 }
 .headstuff{
 	position:absolute;
-	bottom:0;
+	margin-bottom:0px;
 	left:10px;
 	right:10px;
 }
