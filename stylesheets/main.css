@@ -25,7 +25,7 @@ li a {
 .headstuff{
 	position:absolute;
 	bottom:0;
-	width: 95%;
+	width: 100%;
 }
 li a:hover {
 	background-color: #555;
