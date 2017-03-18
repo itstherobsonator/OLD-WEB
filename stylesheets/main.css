@@ -1,9 +1,9 @@
 # CSS
 * {
-	background-image:url("https://ittherobsonator.github.io/stylesheets/Picture of me.jpg");
+	
 }
 body {
-	background-image:url(".../stylesheets/Road.jpg");
+	background-image:url("https://ittherobsonator.github.io/stylesheets/Picture of me.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-color:red;
