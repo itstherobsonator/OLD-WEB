@@ -5,8 +5,8 @@
 	background-repeat: no-repeat;
 	background-color:red;
 }
-footer {	
-	position:fixed;
+ul {	
+	position:relative;
 	float:bottom;
 	list-style-type:none;
 	background-color: #333;
