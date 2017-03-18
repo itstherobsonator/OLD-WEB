@@ -1,9 +1,10 @@
 # CSS
-* {
-	
+img {
+position:absolute
+height:100vh
+right:0;	
 }
 body {
-	background-image:url("https://ittherobsonator.github.io//Picture-of-me.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-color:red;
